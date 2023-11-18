@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Briechuang
+- 👋 Hi, I’m Adrian Adi
 - 👀 I’m interested in soft engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on local starter group
